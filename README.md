@@ -1,4 +1,4 @@
-# [Web Design Company](https://devdap.com/themes/software-landing-page/)
+# [Web Design Company](https://devdap.com/themes/web-design-landing-page/)
 
 Web Design Company is a fully responsive Bootstrap template with video background.This template is clean coded that's why you can easily customize it. It also W3 valid code.Free avaliable in multiple versions [Bootstrap](https://getbootstrap.com/), [Ruby On Rails](https://rubyonrails.org/), [Asp.NET MVC](https://www.asp.net/), [.NET Core 2.0](https://www.asp.net/core/overview/aspnet-vnext).
 
